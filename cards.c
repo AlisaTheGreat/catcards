@@ -206,6 +206,7 @@ int cards_craft(CardList *list, int id1, int id2, Card *out_new) {
     return 0;
 }
 
+
 //
 // Created by Admin on 20.01.2026.
 //
